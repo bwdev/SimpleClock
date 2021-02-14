@@ -22,5 +22,4 @@ namespace SystemClock.Core
             services.AddSingleton<IClock, Clock>();
         }
     }
-
 }
